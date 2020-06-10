@@ -16,8 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          <h1>Hello world from Umer</h1>
+          Learn React from Umer Nasir
         </a>
       </header>
     </div>
